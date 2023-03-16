@@ -51,6 +51,5 @@ public class Main {
                 zarina.patronymic + "\n" + "ilivein: " + zarina.ilivein + "\n" + "age: " +
                 zarina.age + "\n" + "hobby: " + zarina.hobby + "\n" + "kurs: " + zarina.kurs + "\n" + "meheight: "
                 + zarina.meheight);
-
     }
 }
